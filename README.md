@@ -41,7 +41,7 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustaAzevedo&theme=radical" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustaAzevedo" alt="GitHub Streak">
 </p>
 
 ---
