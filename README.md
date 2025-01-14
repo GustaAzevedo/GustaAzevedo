@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou o [Seu Nome]!
+Full-Stack Developer com mais de 4 anos de experiência em Angular, Spring Boot e tecnologias modernas. Aqui você encontrará meus projetos e experiências com foco em código limpo e soluções escaláveis. 🚀
 
-<!--
-**GustaAzevedo/GustaAzevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ **Minhas Skills:**
+- Angular
+- Spring Boot
+- Java
+- TypeScript
 
-Here are some ideas to get you started:
+## 🌱 **Atualmente Estudando:**
+- Engenharia de Software (MBA na FIAP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 **Conecte-se comigo:**
+- [LinkedIn](https://linkedin.com/in/gustavo-az-azevedo/)
